@@ -1,4 +1,7 @@
 {
     "version": "1.0.0",
-    "download_url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.1/yourapp.exe"
+    "downloads": {
+        "windows": "https://github.com/yourusername/yourrepo/releases/download/v1.0.0/yourapp.exe",
+        "mac": "https://github.com/yourusername/yourrepo/releases/download/v1.0.0/yourapp.dmg"
+    }
 }
