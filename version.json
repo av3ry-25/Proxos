@@ -1,7 +1,7 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "downloads": {
-        "windows": "https://github.com/av3ry-25/Proxos/releases/download/Main/Proxos.exe",
-        "mac": "https://github.com/av3ry-25/Proxos/releases/download/Main/Proxos.app.zip"
+        "windows": "https://github.com/av3ry-25/Proxos/releases/download/V.101/main.exe",
+        "mac": "https://github.com/av3ry-25/Proxos/releases/download/V.101/main.app.zip"
     }
 }
